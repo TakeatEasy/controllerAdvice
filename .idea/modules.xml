@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/controllerAdvice.iml" filepath="$PROJECT_DIR$/.idea/controllerAdvice.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handleException/handleException.iml" filepath="$PROJECT_DIR$/handleException/handleException.iml" />
     </modules>
   </component>
 </project>
